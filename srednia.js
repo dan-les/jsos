@@ -1,5 +1,6 @@
 $('td:contains("2.0")').parent().remove(); //usunięcie wpisów z oceną 2
 $('td:contains("---")').parent().remove(); //usunięcie ocen nie wpisanych, aby ich nie liczyło
+$('td:contains("k.cz.")').parent().remove(); //usunięcie ocen cząstkowych
 
 var sum=0; //suma ECTS
 var mulSum=0; // suma ECTS * ocena

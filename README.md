@@ -4,7 +4,7 @@
 * wejdź w opcje programistyczne i przejdź do konsoli
 * w konsoli wklej skrypt
 1. [skrypt który pomija 2.0](https://github.com/rootuss/jsos/blob/master/srednia.js)
-2. [skrypt który NIE pomija 2.0](https://github.com/rootuss/jsos/blob/master/sredniaBezNdst.js)
+2. [skrypt który NIE pomija 2.0](https://github.com/rootuss/jsos/blob/master/srednia_z_ndst.js.js)
 ![podgląd konsoli](https://github.com/rootuss/jsos/blob/master/console.PNG)
 
 * po kliknięciu ENTER'a wyświetli się policzona średnia (na poniższym zrzucie ekranu przykładowy wynik tej operacji):
